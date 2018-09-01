@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535409290 source:d:\facundo gonzalez\do while\main.c
+	<stdio.h>
+	<stdlib.h>
+
