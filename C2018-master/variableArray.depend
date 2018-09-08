@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536417843 source:d:\gonzalez f\variablearray\main.c
+	<stdio.h>
+	<stdlib.h>
+
