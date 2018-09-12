@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536704225 source:/home/alumno/Descargas/C2018-master/GonzalezFacundo/array2/main.c
+	<stdio.h>
+	<stdlib.h>
+
